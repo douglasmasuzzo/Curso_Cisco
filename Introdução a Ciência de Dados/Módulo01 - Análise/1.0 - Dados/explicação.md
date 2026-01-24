@@ -165,4 +165,20 @@
         - Certifique de que os valores obtidos entre os segmentos sejam equivalente a 100%
 
  - **Gráfico de Dispersão**
-    - 
+    - São muito populares para visualizações de correlação ou quando você deseja mostrar a distribuição, ou todos os valores possíveis, de um grande número de pontos de dados. Os gráficos de dispersão também são úteis para demonstrar o agrupamento ou identificar valores discrepantes nos dados. Alguns casos de uso que ilustram a visualização da distribuição de muitos pontos de dados com um gráfico de dispersão incluem:
+
+    - _Projeções de Uso_
+        - Comparação de expectativa de vida entre países ( PIB )
+        - Comparação de venda média entre produtos
+        - Comparação de peso com a altura de cada pessoa
+
+    - _Práticas recomendadas_
+        - Rotular os eixos.
+
+        - Certifique-se de que o conjunto de dados seja grande o suficiente para fornecer visualização de agrupamentos ou valores atípicos. 
+
+        - Inicie o valor do eixo Y em zero para representar os dados com precisão. O valor do eixo X dependerá dos dados. Por exemplo, as faixas etárias podem ser rotuladas no eixo x. 
+
+        - Considere adicionar uma linhas de tendência se um gráfico de dispersão mostrar uma correlação entre os eixos X e Y.
+
+        - Não use mais de duas linhas de tendência. 
