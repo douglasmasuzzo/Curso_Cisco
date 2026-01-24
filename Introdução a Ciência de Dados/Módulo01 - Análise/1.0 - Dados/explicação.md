@@ -107,11 +107,11 @@
     - _Práticas recomendadas_
         - Rotule os eixos e as linhas da referência usadas para medir as coordenadas do gráfico. É comum traçar o _tempo_ no **eixo X (Horizontal)** e os _valores_ no **eixo Y ( Vertical )**
 
-        - Use linhas contínuas para conectar os pontos de dados para ilustrar tendências
+        - Use **linhas contínuas** para conectar os pontos de dados para **ilustrar tendências**
 
-        - Mantenha mínimo o número de linhas plotadas, normalmente inferior do que 5 linhas, para facilitar a compreensão do gráfico
+        - Mantenha **mínimo o número de linhas plotadas**, normalmente inferior do que **5 linhas**, para facilitar a compreensão do gráfico
 
-        - Adicione título e uma legenda, informando visualmente os dados do gráfico e o que cada respectiva linha representa
+        - Adicione **título e uma legenda**, informando visualmente os dados do gráfico e o que cada respectiva **linha representa**
 
  - **Gráfico de Coluna**
     - São posicionados verticalmente, conforme mostrado na figura. Provavelmente, são o tipo de gráfico mais comumente usado para exibir o valor numérico de um ponto de dados específico e comparar esse valor entre categorias semelhantes. Eles permitem a fácil comparação entre vários pontos de dados. 
@@ -122,14 +122,13 @@
         - Pontuações médias dos testes de alunos
 
     - _Práticas recomendadas_
-        
-        - Rotule os eixos, se o gráfico mostrar alterações ao longo do tempo, trace os incrementos de tempo no eixo X.
+        - **Rotule os eixos**, se o gráfico mostrar alterações ao longo do tempo, trace os incrementos de tempo no **eixo X (Horizontal)**.
 
-        - Se o tempo não fizer parte dos dados, considere ordenar as alturas das colunas em ordem crescente ou decrescente para demonstrar mudanças ou tendências.  
+        - Se o tempo não fizer parte dos dados, considere **ordenar** as alturas das colunas em **ordem crescente ou decrescente** para demonstrar mudanças ou tendências.  
 
-        - Mantenha o número de colunas baixo, normalmente inferior do que 7, para que o visualizador possa ver o valor de cada coluna. 
+        - Mantenha o número de colunas abaixo, normalmente, **inferior do que 7**, para que o visualizador possa ver o valor de cada coluna. 
 
-        - Inicie o valor do eixo X em zero para refletir com precisão o valor total da coluna.  O espaçamento entre as colunas deve ser aproximadamente metade da largura de uma coluna. 
+        - Inicie o valor do **eixo X em zero** para refletir com precisão o valor **total da coluna**.  O **espaçamento** entre as colunas deve ser aproximadamente **metade da largura de uma coluna**. 
 
  - **Gráfico de Barra**
     - São semelhantes aos gráficos de colunas, exceto que os dados são exibidos horizontalmente. Os gráficos de barras também permitem uma comparação fácil entre vários pontos de dados. Os rótulos dos pontos de dados no gráfico de barras horizontais estão no lado esquerdo e são mais legíveis quando o rótulo contém texto em vez de valores. 
@@ -140,14 +139,13 @@
         - As pontuações de prova para cada aluno.
 
     - _Práticas recomendadas_
+        - **Rotule os eixos**.
 
-        - Rotule os eixos.
+        - Considere **ordenar as barras** de modo que os comprimentos vão do **maior para o menor**. O tipo de dados provavelmente determinará se a barra mais longa deve estar na parte inferior ou superior para melhor ilustrar o padrão ou tendência pretendida.
 
-        - Considere ordenar as barras de modo que os comprimentos vão do maior para o menor. O tipo de dados provavelmente determinará se a barra mais longa deve estar na parte inferior ou superior para melhor ilustrar o padrão ou tendência pretendida.
+        - Inicie o valor do **eixo X em zero** para refletir com precisão o valor **total das barras**
 
-        - Inicie o valor do eixo X em zero para refletir com precisão o valor total das barras
-
-        - O espaçamento entre as barras deve ser aproximadamente metade da largura de uma barra. 
+        - O **espaçamento** entre as barras deve ser aproximadamente **metade da largura de uma barra**. 
 
  - **Gráfico de Pizza**
     - mostram partes de um todo. Cada fatia, ou segmento, da “torta” representa uma porcentagem do número total. A soma total dos segmentos deve ser igual a 100%. Um gráfico de pizza exibe os diferentes valores de uma determinada variável. Alguns casos de uso que ilustram a comparação das informações com um gráfico de pizza incluem:
@@ -158,11 +156,11 @@
         - Resultados de pesquisa entre opções de filmes
 
     - _Práticas recomendadas_
-        - Mantenha o número de categorias mínimo para que o espectador possa diferenciar entre os segmentos. Depois de dez segmentos, as fatias começam a perder significado e impacto. Se necessário, consolide segmentos menores em um segmento com um rótulo como "Outros" ou "Diversos". 
+        - **Mantenha o número de categorias mínimo** para que o espectador possa **diferenciar** entre os segmentos. Depois de **dez segmentos**, as fatias começam a perder significado e impacto. Se necessário, consolide **segmentos menores** em um segmento com um rótulo como **"Outros" ou "Diversos"**. 
 
-        - Utilize uma cor diferente ou tons de escala de cinza para cada segmento. Ordene os segmentos de acordo com o tamanho.
+        - Utilize uma **cor diferente ou tons de escala de cinza** para cada segmento. **Ordene** os segmentos de acordo com o **tamanho**.
 
-        - Certifique de que os valores obtidos entre os segmentos sejam equivalente a 100%
+        - Certifique de que os **valores obtidos** entre os segmentos sejam equivalente a **100%**.
 
  - **Gráfico de Dispersão**
     - São muito populares para visualizações de correlação ou quando você deseja mostrar a distribuição, ou todos os valores possíveis, de um grande número de pontos de dados. Os gráficos de dispersão também são úteis para demonstrar o agrupamento ou identificar valores discrepantes nos dados. Alguns casos de uso que ilustram a visualização da distribuição de muitos pontos de dados com um gráfico de dispersão incluem:
@@ -173,12 +171,12 @@
         - Comparação de peso com a altura de cada pessoa
 
     - _Práticas recomendadas_
-        - Rotular os eixos.
+        - **Rotular os eixos Horizontais e Verticais** .
 
-        - Certifique-se de que o conjunto de dados seja grande o suficiente para fornecer visualização de agrupamentos ou valores atípicos. 
+        - Certifique-se de que o **conjunto de dados** seja grande o suficiente para **fornecer visualização de agrupamentos ou valores atípicos**. 
 
-        - Inicie o valor do eixo Y em zero para representar os dados com precisão. O valor do eixo X dependerá dos dados. Por exemplo, as faixas etárias podem ser rotuladas no eixo x. 
+        - Inicie o **valor do eixo Y (Veritical)** em zero para representar os **dados com precisão**. O valor do eixo X (Horizontal) dependerá dos dados. Por exemplo, as faixas etárias podem ser rotuladas no eixo x. 
 
-        - Considere adicionar uma linhas de tendência se um gráfico de dispersão mostrar uma correlação entre os eixos X e Y.
+        - Considere **adicionar uma linhas de tendência** se um gráfico de dispersão mostrar uma **correlação entre os eixos** X e Y.
 
-        - Não use mais de duas linhas de tendência. 
+        - **Não use mais de duas linhas de tendência**. 
