@@ -180,3 +180,60 @@
         - Considere **adicionar uma linhas de tendência** se um gráfico de dispersão mostrar uma **correlação entre os eixos** X e Y.
 
         - **Não use mais de duas linhas de tendência**. 
+
+------------------------------------------------------------------
+
+>> ## Módulo01 - Análise de Experiência ( **1.1.7 - Formas de visualizar dados ( 2º Parte )** ) ##  
+
+### _Questões Práticas_ ###
+ Um de nossos clientes na Data Crunchers é um varejista de bicicletas que fará uma apresentação para os investidores em uma reunião da empresa. A apresentação incluirá várias visualizações resumindo os dados de vendas. Você deve criar os gráficos que eles usarão na apresentação. Selecione o gráfico correto e as melhores práticas para cada um dos cenários a seguir.
+
+ 1. _A primeira visualização precisa mostrar a tendência da receita mensal de vendas nos últimos dois anos. Como esse recurso visual mostrará como a receita mudou ao longo do tempo, você decide que o melhor tipo de gráfico a ser usado é um ~~()~~.De acordo com as melhores práticas, você traça os meses no eixo ~~()~~ e traça os valores de receita no eixo ~~()~~_ _
+
+    > Respostas : **Gráfico de Linha || Eixo Horizontal ( eixo X ) e Eixo Vertifical ( eixo Y )** 
+
+    > Correto! O gráfico de linhas com valores no eixo vertical e tempo no eixo horizontal é a melhor opção para mostrar as tendências de vendas. 
+
+ 2. _Em seguida, você precisa de uma visualização que mostre comparações da receita de vendas por país. O melhor gráfico para mostrar comparações de receita entre países é um ~~()~~. Com este tipo de gráfico, o valor do eixo ~~()~~ deve começar em 0 para refletir com precisão o valor total dos dados de receita exibidos._
+
+    > Respostas : **Gráfico de Colunas || Eixo X ( Vertical )**
+
+    > Correto! Um gráfico de colunas que começa com o valor zero é a melhor opção para mostrar as comparações. 
+
+ 3. _Por fim, eles querem concluir a apresentação mostrando a porcentagem do total de vendas de cada categoria de produto. Como você deseja que o gráfico mostre as vendas da categoria de produto como uma porcentagem do total de vendas, você determina que a visualização mais eficaz é o gráfico ~~()~~. Ao comparar este gráfico, você deve se certificar que o valor total dos segmentos é equivalente a ~~()~~._
+
+    > Respostas : **Gráfico de Pizza || 100%** 
+
+    > Correto! Os gráficos de pizza são a melhor opção quando você deseja ilustrar a porcentagem de um todo.Gráficos de pizza devem sempre totalizar 100%. 
+
+--------------------------------------------------------
+
+>> ## Módulo01 - Análise de Experiência ( **1.1.8 - Formas de visualizar dados ( 3º Parte )** ## 
+
+### _Quetões Práticas_ ###
+ Nosso cliente, a Racing Wheels, um varejista de bicicletas, foi abordado por um novo fabricante para oferecer uma bicicleta de turismo leve e personalizável. Para determinar quantas pedir e quais modelos, o proprietário da loja de bicicletas quer que analisemos os dados de vendas anteriores para encontrar informações sobre como as bicicletas de turismo são vendidas nas lojas. As três figuras a seguir mostram gráficos criados para nosso cliente de loja de bicicletas.
+
+ 1. _Selecione o tipo de informação que pode ser determinada examinando a visualização mostrada no gráfico de colunas à direita._
+
+    ![Gráfico de Coluna - Total de Vendas](exercicio1.png)
+
+    > Resposta : **O modelo mais popular e quantos modelos foram vendidos**
+
+    > Correto! Neste gráfico de barras, barras mais longas indicam números maiores. Gráficos de barras permitem uma comparação fácil das vendas entre os diferentes anos.
+
+ 2. _Selecione o tipo de informação que pode ser determinada examinando a visualização mostrada no gráfico de barras à direita._
+
+    ![Gráfico de Barra - Total de Vendas](exercicio2.png)
+
+    > Resposta : **O ano em que mais bicicletas de turismos foram vendidas**
+
+    > Correto! O gráfico de colunas ilustra quantos de cada modelo foram vendidos, facilitando a visualização de qual modelo é o mais popular.
+
+ 3. _Selecione o tipo de informação que pode ser determinada examinando a visualização mostrada no gráfico de pizza à direita._
+
+    ![Gráfico de Pizza - Total de Vendas](exercicio3.png)
+
+    > Resposta : **A porcentagem do total de vendas que cada modelo representa**
+
+    > Correto! O gráfico de pizza representa o total de vendas. Cada segmento da pizza representa uma porcentagem do total de vendas. O maior segmento de pizza representa visualmente o modelo com mais vendas.
+ 
