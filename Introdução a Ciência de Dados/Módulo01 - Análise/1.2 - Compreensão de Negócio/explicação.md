@@ -93,8 +93,55 @@ As empresas não são as únicas beneficiárias da explosão em dados e análise
 
 --------------------------------------------------------------------------
 
->> ## Módulo01 - Análise de Experiência ( **1.3.8 - Laboratório Gráfico** ) ##
+>> ## Módulo01 - Análise de Experiência ( **1.3.8 ( Parte 1 ) - Laboratório Gráfico ( Visualização de Dados em Tabelas Dinâmicas )** ##
 
 ## Descrição ##
  A Data Crunchers acaba de trazer um novo cliente, Cool Treats Ice Cream. Eles gostariam de adotar uma abordagem baseada em dados para administrar seus negócios. Como novo membro da equipe Data Crunchers, este projeto "legal" é sua nova tarefa. O objetivo é ajudar a Cool Treats Ice Cream a descobrir o quão bem seus vários sabores de sorvete vendem e como otimizar o momento de fazer novos lotes. Para isso, você usará planilhas e gráficos dinâmicos. Não se preocupe se você não sabe muito sobre gráficos dinâmicos. É sobre isso que você aprenderá nos três laboratórios a seguir. Deixe-nos orgulhosos de você!
 
+### _Questões Práticas_ ###
+ Você já deve ter ouvido falar em tabelas dinâmicas no Excel. Dinamizar aqui significa agrupar dados em uma tabela ou planilha de acordo com os valores em uma coluna. É uma técnica eficaz, especialmente quando você tem colunas com valores repetidos. Neste laboratório, visualizaremos como a tabela dinâmica funciona agrupando itens de vestuário. Em vez de falar sobre isso, vamos aprender fazendo. Acesse a aba referente a exercícios para começar.
+
+ - **Visualização de Dados em Tabelas Dinâmicas**
+    
+    ![Tabela - Clothes](exercicio.png)
+
+    > Atividade : **[Visualização de Dados - Laboratório](Visualização%20de%20Dados%20-%20Laboratório.pdf)**
+
+------------------------------------------------------------------------
+
+>> ## Módulo01 - Análise de Experiência ( **1.3.8 ( Parte 2 ) - Laboratório Gráfico ( Explore as Tabelas e Gráficos Dinâmicos )** ##
+ 
+### _Questões Práticas_ ###
+ Na parte 1, aprendemos a reorganizar os dados dinamizando em diferentes colunas e criamos alguns gráficos dinâmicos. Neste etapa, vamos praticar essa habilidade e explorar alguns dados interessantes.
+
+ - **Tabela - Countries**
+
+    ![Tabela - Paises](paises.png)
+
+ - **Tabela - Moons**
+
+    ![Tabela - Luas](luas.png)
+
+ - **Tabela - Animal's Sleeps**
+
+    ![Tabela - Sono de Animais](animais.png)
+
+ - **Tabela - Longests Rivers**
+    
+    ![Tabela - Longitude de Rios](rios.png)
+
+    > Atividade : **[Gráficos Dinâmicos - Laboratório](Gráficos%20Dinâmicos%20-%20Laboratório.pdf)**
+
+
+------------------------------------------------------------------------
+
+>> ## Módulo01 - Análise de Experiência ( **1.3.8 ( Parte 3 ) - Laboratório Gráfico ( Sorvete )** ##
+
+### _Questões Práticas_ ###
+ Referentes as primeiras partes de exercício, praticamos a criação e o desenvolvimento de gráficos dinâmicos. Agora vamos aplicar nossas habilidades em um cenário de negócios. Pronto para interpretar um personagem? Parabéns! Você acaba de ser contratado como membro júnior da equipe de Processamento de Dados. Sua primeira tarefa é ajudar uma pequena sorveteria a entender melhor as métricas de sucesso dos vários sabores de sorvete. Vendas e Classificações nas últimas semanas, os proprietários da sorveteria coletaram, dos clientes, dados de vendas e avaliações sobre os sabores. Ao realizar os , aplique suas habilidades em gráficos dinâmicos para ajudar a entender todos esses dados.
+
+ - **Tabela - Ranking de Sorvetes**
+
+    ![Tabela - Ranking de Sorvetes](sorvetes.png)
+
+    > Atividade : **[Sorveteria - Laboratório](Sorveteria%20-%20Laboratório.pdf)**
