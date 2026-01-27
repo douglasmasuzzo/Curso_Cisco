@@ -34,3 +34,42 @@
  A ciência de dados possibilita que as empresas compreendam melhor o impacto de seus produtos e serviços, ajustem seus métodos e objetivos, e forneçam aos seus clientes produtos de melhor qualidade de forma mais rápida. A análise de tendências é uma maneira de obter insights sobre os principais indicadores de desempenho ( KPI ) ao longo do tempo.
 
  Organizações Humnitárias utilziam dados para servir às suas comunidades e ao mundo. A análise preditiva pode concentrar os esforços humanitários em ações preventivas, em vez de reativas. As agências ambientais rastreiam os dados das mudanças climáticas por meio de observações que permitem previsões de impacto social. 
+
+-------------------------------------------------------------------------------
+
+>> ## Módulo01 - Análise de Experiência ( **1.4.2 - Reflexão** ) ##
+
+## Descrição ###
+ A população mundial continua a aumentar. A necessidade de alimentar essa população em crescimento torna o setor agrícola mais dependente de dados do que nunca. Os produtores agrícolas utilizam dados para determinar o clima certo, o rendimento do solo, a oferta e a demanda para o tipo de cultura. Essas análises afetam o que plantar, quando plantar, quando colher e quando vender. Para os criadores de gado, a análise de dados geram taxas de criação, gerencimento de terras, compra de feno e grãos e determina a valorização e emprecificação do mercado.
+
+ A função do agricultor pode ter permanecido relativamente a mesma de décadas anteriores, mas a abordagem mudou devido à análise de dados. A crescente necessidade de um fornecimento sustentável e constante de alimentos levanta novas questões.
+ A análise de dados continuará a desempenhar um papel significativo no melhoria dos métodos de cultivo para as gerações futuras. As perguntas de reflexão incluem: 
+
+   - _Qual porcentagem de terra deve ser dedicada à agricultura versus comunidades?_
+   - _Quais outros dados devem ser coletados para garantir uma boa fonte de alimento por gerações, sem afetar negativamente o meio ambiente?_
+ 
+-------------------------------------------------------------------------------
+
+>> ## Módulo01 - Análise de Experiência ( **1.4.3 - Teste do Módulo** ) ##
+
+### _Questões Práticas_ ###
+
+ 1. _Qual é um exemplo de dados estruturado?_
+
+   > Resposta : **Dados inseridos em uma planílha**
+
+ 2. _Quais são os exemplos de dados não estruturados?_
+
+   > Resposta : **Conteúdo em vídeo | Entrada de um Blog**
+
+ 3. _Qual das seguintes afirmações descreve com precisão as variáveis discretas?_
+
+   > Resposta : **São quantitativas com um conjunto finito de valores**
+
+ 4. _Um departamento de vendas está analisando a tendência de vendas de um de seus melhores produtos. Eles coletaram o número de vendas trimestrais nos últimos anos e desejam plotar os dados em um formato gráfico para análise e interpretação rápidas. Qual destas não é uma boa maneira de visualziação?_
+
+   > Resposta : **Gráfico de Linhas**
+
+ 5. _Um site de compras e-commerce online coleta dados de vendas para ajudar a melhorar a operação e os lucros. Qual tipo de dados seria usado para registrar o número de produtos adquiridos por um cliente?_
+
+   > Resposta : **Integer ( números inteiros )** 
