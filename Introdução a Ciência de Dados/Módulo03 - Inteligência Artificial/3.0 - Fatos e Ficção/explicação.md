@@ -1,6 +1,6 @@
 # **CURSO : INTRODUÇÃO À CIÊNCIA DE DADOS** #
 
->> ## Módulo02 - Coleta e Armazenamento de Dados ( **3.0.1 - O que é Machine Learning e Inteligência Artificial?** ) ##
+>> ## Módulo03 - Inteligência Artificial e Aprendizagem de Máquina( **3.0.1 - O que é Machine Learning e Inteligência Artificial?** ) ##
 
 ## Transcrição - " O que é Machine Learning e Inteligência Artificial? " ##
  Atualmente, a Inteligência Artificial e Machine Learning são recursos adquiridos e utilizados em corporações para otimizar as tomadas de decisões, derivados de  planejamentos estratégicos, sob maior precisão, qualidade e rapidez. Potencializando o desenvolvimento de pesquisas científicas para solucionar problemas existentes, e protegendo e criptografando diversas transações financeiras para facilitar a circulação rotativa monetária entre instituições e seus respectivos clientes. Porém, por que isto ocorre de forma desmedida e contínua exponencialmente?
@@ -10,7 +10,7 @@
 
 ---------------------------------------------------------------------------------
 
->> ## Módulo02 - Coleta e Armazenamento de Dados ( **3.0.2 - Inteligência Artificial e Aprendizado de Máquina** ) ##
+>> ## Módulo03 - Inteligência Artificial e Aprendizagem de Máquina( **3.0.2 - Inteligência Artificial e Aprendizado de Máquina** ) ##
 
 ## Descrição ##
  Neste módulo, você será apresentado à Inteligência e ao Aprendizado de Máquina, demonstrando como essas tecnologias revolucionaram o cotidiano e como são aplicadas mundialmente.
