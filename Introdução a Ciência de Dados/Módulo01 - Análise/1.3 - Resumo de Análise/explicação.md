@@ -11,11 +11,10 @@
 
  - Objetivo
     - Identificar aplicações de dados na vida diária
-
- - O número de variáveis a serem mostradas
- - O número de pontos de dados ou unidade de informações em cada variável
- - Se os dados ilustram as mudanças ao longo do tempo
- - A necessidade de fazer uma comparação ou correlação entre diferentes grupos de dados 
+    - O número de variáveis a serem mostradas
+    - O número de pontos de dados ou unidade de informações em cada variável
+    - Se os dados ilustram as mudanças ao longo do tempo
+    - A necessidade de fazer uma comparação ou correlação entre diferentes grupos de dados 
 
 ### _Os dados estão ao nosso redor_ ###
  A análise de dados começa com a compreensão dos tipos de dados. Os dados são definidos como quantitativos ou qualitativos. 
