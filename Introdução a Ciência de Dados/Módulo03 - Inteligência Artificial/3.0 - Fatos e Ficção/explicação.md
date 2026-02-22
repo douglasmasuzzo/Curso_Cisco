@@ -23,8 +23,6 @@
 
 ---------------------------------------------------------
 
-# **CURSO : INTRODUÇÃO À CIÊNCIA DE DADOS** #
-
 >> ## Módulo03 - Inteligência Artificial e Aprendizagem de Máquina ( **3.0.3 - Uso de Inteligência Artificial na Agricultura por "Análise de Dados"** ) ##
 
 ## Transcrição - " Uso de Inteligência Artificial na Agricultura por Análise de Dados ##
